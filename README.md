@@ -7,4 +7,4 @@
 用Dataset_Maker將兩者的提示詞標記好 然後適當的刪除一些提示詞  
 然後就用Lora訓練那些資料
 
-這次作業是跟著https://vocus.cc/article/642db062fd897800014596ad的步驟做的
+這次作業是跟著https://vocus.cc/article/642db062fd897800014596ad 的步驟做的
